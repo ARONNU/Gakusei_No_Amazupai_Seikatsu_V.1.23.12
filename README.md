@@ -7,7 +7,7 @@ The whole game will be released in Itch.io within this month.
 Enjoy this mockup front and back cover of our game.
 <br>
 <br>
-<img align="left" alt="Renpy" width="480px" src="Cover 1.2.png"/>
+<img align="center" alt="Renpy" width="480px" src="Cover 1.2.png"/>
 <br>
 <br>
-<img align="left" alt="Renpy" width="52px" src="Cover 1.2 Back.png"/>
+<img align="center" alt="Renpy" width="480px" src="Cover 1.2 Back.png"/>

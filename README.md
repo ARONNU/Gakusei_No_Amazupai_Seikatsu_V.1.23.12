@@ -4,7 +4,11 @@ I only put the rpy files in order for renpy devs to quickly seearch for some ren
 Some mechanics that we have are image point and clicker, username input, scoring and such.
 The whole game will be released in Itch.io within this month.
 <br>
-Enjoy this mockup front and back cover of our game.
+<br>
+<br>
+<br>
+<br>
+Enjoy this mockup front and back cover of our game:
 <br>
 <br>
 <img align="center" alt="Renpy" width="480px" src="Cover 1.2.png"/>
